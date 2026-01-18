@@ -1,6 +1,6 @@
 <!--- Project README for vibecoded_todoapp (aka ThinkBoard) --->
 
-# ThinkBoard — vibecoded_todoapp
+# ThinkBoard — 
 
 A lightweight note / todo application built with the MERN stack (MongoDB, Express, React, Node) with request rate-limiting and full CRUD. This README explains how to run the project locally, the API surface, environment variables, and developer guidance so contributors can get started quickly.
 
